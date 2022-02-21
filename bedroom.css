@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#back{
+    background-color: white;
+    margin-right:2000px;
+}
+canvas{
+    border: 5px solid white;
+}
